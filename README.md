@@ -2,13 +2,14 @@
 
 **Allied Software Engineers - Web Development & DevOps Engineering Internship**  
 **Lab Assignment 04 | Level: Internship | Credit Weeks: 8**  
+**Student Name:** Sadaf Saleem  
 **Supervisor:** Muhammad Ahsan Ali  
 
 ---
 
 ## 🌟 Live Demo & Deployment
-- **GitHub Pages Live Application URL**: `https://<your-username>.github.io/project-task-management/`
-- **GitHub Repository**: `https://github.com/<your-username>/project-task-management`
+- **GitHub Pages Live Application URL**: `https://sadaf-saleem.github.io/project-task-management/`
+- **GitHub Repository**: `https://github.com/sadaf-saleem/project-task-management.git`
 
 ---
 
@@ -63,37 +64,3 @@ project-task-management/
 ├── README.md
 ├── CHANGELOG.md
 └── .gitignore
-```
-
-### Git Branching & Tagging Workflow:
-- `main`
-- `development`
-- `feature-login`
-- `feature-dashboard`
-- `feature-task-module`
-- `release-v1.0`
-- `hotfix-validation`
-- **Git Tag**: `v1.0`
-
----
-
-## ⚡ Quick Start Instructions
-
-1. Clone or extract this repository:
-   ```bash
-   git clone https://github.com/<your-username>/project-task-management.git
-   cd project-task-management
-   ```
-2. Open `index.html` directly in any modern browser OR run via local server (e.g. Live Server extension).
-3. Login credentials for demo:
-   - **Email**: `admin@enterprise.com`
-   - **Password**: `password123`
-
----
-
-## 📜 Automated Git Setup Script
-To automatically create all required branches, perform commits per module, create tag `v1.0`, and push:
-```bash
-chmod +x setup_git_repository.sh
-./setup_git_repository.sh
-```
