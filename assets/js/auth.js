@@ -9,7 +9,7 @@ const AuthModule = (function () {
     // Predefined authorized demo accounts
     const VALID_USERS = [
         { email: "admin@enterprise.com", password: "password123", name: "Muhammad Ahsan", role: "Project Lead" },
-        { email: "wasiya@enterprise.com", password: "password123", name: "Wasiya Khan", role: "Frontend Engineer" },
+        { email: "sadaf@enterprise.com", password: "password123", name: "Sadaf Saleem", role: "Frontend Engineer" },
         { email: "intern@enterprise.com", password: "password123", name: "Software Intern", role: "Developer" }
     ];
 

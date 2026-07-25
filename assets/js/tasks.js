@@ -22,7 +22,7 @@ const TasksModule = (function () {
             id: "TSK-102",
             title: "Design Responsive Task Dashboard UI",
             projectName: "TaskPulse Web App",
-            assignedEmployee: "Wasiya Khan",
+            assignedEmployee: "Sadaf Saleem",
             priority: "High",
             startDate: "2026-07-10",
             dueDate: "2026-07-20", // Overdue
@@ -32,7 +32,7 @@ const TasksModule = (function () {
             id: "TSK-103",
             title: "Implement Form Input Validation & LocalStorage",
             projectName: "TaskPulse Web App",
-            assignedEmployee: "Wasiya Khan",
+            assignedEmployee: "Hayat Khan",
             priority: "Medium",
             startDate: "2026-07-15",
             dueDate: "2026-07-25",
